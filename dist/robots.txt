@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frisco-fieldnotes.devin278394.chatgpt.site/sitemap.xml
